@@ -13,6 +13,7 @@ and open the template in the editor.
         <?php
         // put your code here
         echo "Aiuda";
+        echo "test 2";
         ?>
     </body>
 </html>
